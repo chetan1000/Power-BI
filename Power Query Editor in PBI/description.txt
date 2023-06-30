@@ -1,1 +1,2 @@
+how to create and use Power Query Editor and how to transform data before loading PBI
 
