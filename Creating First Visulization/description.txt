@@ -1,1 +1,1 @@
-
+This consists how to install power BI and creating first visulization
